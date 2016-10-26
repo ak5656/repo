@@ -1,6 +1,5 @@
 <?php
 
-echo 'jjjj';
 
 if($_POST['otherData']['type']=='addCarDetail')
 {
