@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>send data module.</title>
+<title>send data module.</title> <!--from local-->
 <script type="text/javascript" src="js/jquery.min.js"></script>
 <script type="text/javascript" src="js/custom.js"></script>
 </head>
 
-<body>
+<body> 
 
 <form  id="carDetailForm" name="carDetailForm" >            	
 	<input type="text"  name="vehicle"  />
