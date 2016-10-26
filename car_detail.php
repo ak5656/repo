@@ -1,6 +1,6 @@
 <?php
 
-echo 'nice';
+echo 'dipen';
 
 if($_POST['otherData']['type']=='addCarDetail')
 {
