@@ -7,7 +7,7 @@
 <script type="text/javascript" src="js/custom.js"></script>
 </head>
 
-<body>
+<body><!--hello-->
 
 <form  id="carDetailForm" name="carDetailForm" >            	
 	<input type="text"  name="vehicle"  />
